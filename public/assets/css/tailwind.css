@@ -1399,7 +1399,7 @@ body {
 
 .bg-primary{
   --tw-bg-opacity: 1;
-  background-color: rgb(99 30 186 / var(--tw-bg-opacity));
+  background-color: #13ADAB / var(--tw-bg-opacity);
 }
 
 .bg-primary\/5{
